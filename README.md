@@ -46,3 +46,5 @@ Cloud
   - Python and the most commoun frameworks (Pandas, Numpy and Maitplotlib)
   - R
   - Jupyter
+
+What I am missing?
