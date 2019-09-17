@@ -15,7 +15,7 @@ Tools to process information
   - Terminal (iterm, zsh, tmux, vim, comandos unix CLI)
   - Sublime Text 3
     
-Operadores
+Browser
   - Chrome
   - Brave (Recomendado)
   
